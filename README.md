@@ -59,70 +59,149 @@ I'm a **Senior Mobile App Developer** with 5+ years of experience building scala
 
 ## 📱 Shipped apps
 
+<p align="center"><sub>Production apps I built or led, live in the stores and used by real people.</sub></p>
+
+<!-- Hammel -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### Hammel
-**Senior Android Developer** · Kotlin, Firebase
-
-Built features across a large production Android app, fixed production crashes, ANRs and non-fatal issues, and grew the user base with new AI tools and major features.
-
-<a href="https://play.google.com/store/apps/details?id=gyoom.hammel"><img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
-
-</td>
-    <td width="50%" valign="top">
-
-### MAIA · Medical AI Assistant
-**Mobile Developer & Project Manager** · Flutter
-
-AI assistant for medical professionals, built alongside a UI/UX designer and a React + Nest.js web team.
-
-<a href="https://apps.apple.com/eg/app/maia-medical-ai-assistant/id6738157206"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
-
-</td>
+    <td width="52%" valign="top">
+      <img src="assets/apps/hammel-icon.png" width="64" height="64" align="left" alt="Hammel icon" />
+      <h3>&nbsp;Hammel · File Manager</h3>
+      &nbsp;<b>Senior Android Developer</b> · Productivity
+      <br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Downloads-5M%2B-3DDC84?style=flat-square&logo=googleplay&logoColor=white" alt="5M+ downloads" />
+      <img src="https://img.shields.io/badge/Rating-4.7%20%E2%98%85-FFB400?style=flat-square" alt="4.7 star rating" />
+      <img src="https://img.shields.io/badge/Reviews-311K-2C5364?style=flat-square" alt="311K reviews" />
+      <p>A large-scale Android file manager for organizing, importing and capturing files, with built-in AI tools.</p>
+      <ul>
+        <li>Shipped major features and AI tools that grew the user base</li>
+        <li>Monitored releases and fixed production crashes, ANRs and non-fatal issues</li>
+        <li>Improved performance and stability at multi-million-user scale</li>
+        <li>Worked with mobile, backend, UI/UX and QA teams across the full release flow</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/AI%20features-6E40C9?style=flat-square" alt="AI features" />
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=gyoom.hammel"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="assets/apps/hammel-shot1.jpg" height="300" alt="Hammel screenshot" />
+      <img src="assets/apps/hammel-shot2.jpg" height="300" alt="Hammel screenshot" />
+      <img src="assets/apps/hammel-shot3.jpg" height="300" alt="Hammel screenshot" />
+    </td>
   </tr>
+</table>
+
+<!-- MAIA -->
+<table>
   <tr>
-    <td width="50%" valign="top">
-
-### CAIA · Medical Coders AI Assistant
-**Mobile Developer & Project Manager** · Flutter
-
-AI assistant for medical coders, covering architecture, planning and delivery of the mobile app.
-
-<a href="https://apps.apple.com/us/app/caia-coders-medical-ai/id6745459933"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
-
-</td>
-    <td width="50%" valign="top">
-
-### MRCS Diamonds
-**Mobile Developer** · Flutter, Firebase
-
-Courses and books platform for MRCS exam preparation, with Firebase as the backend.
-
-<a href="https://apps.apple.com/eg/app/mrcs-diamonds/id6596769065"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
-
-</td>
+    <td width="48%" align="center" valign="middle">
+      <img src="assets/apps/maia-shot1.jpg" height="300" alt="MAIA screenshot" />
+      <img src="assets/apps/maia-shot2.jpg" height="300" alt="MAIA screenshot" />
+      <img src="assets/apps/maia-shot3.jpg" height="300" alt="MAIA screenshot" />
+    </td>
+    <td width="52%" valign="top">
+      <img src="assets/apps/maia-icon.png" width="64" height="64" align="left" alt="MAIA icon" />
+      <h3>&nbsp;MAIA · Medical AI Assistant</h3>
+      &nbsp;<b>Mobile Developer & Project Manager</b> · Medical
+      <br clear="left" /><br />
+      <p>An AI medical assistant that gives physicians, nurses and medical students fast, detailed and well-referenced answers.</p>
+      <ul>
+        <li>Built the Flutter app for iOS and Android from the ground up</li>
+        <li>Managed the project and coordinated the UI/UX designer and the React + Nest.js web team</li>
+        <li>Delivered the AI chat, specialty selection and answer modes such as step-by-step, plan of care and research</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/AI%20chat-6E40C9?style=flat-square" alt="AI chat" />
+      <img src="https://img.shields.io/badge/iOS%20%26%20Android-555555?style=flat-square&logo=apple&logoColor=white" alt="iOS and Android" />
+      <br /><br />
+      <a href="https://apps.apple.com/eg/app/maia-medical-ai-assistant/id6738157206"><img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+    </td>
   </tr>
+</table>
+
+<!-- CAIA -->
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="52%" valign="top">
+      <img src="assets/apps/caia-icon.png" width="64" height="64" align="left" alt="CAIA icon" />
+      <h3>&nbsp;CAIA · Medical Coding AI</h3>
+      &nbsp;<b>Mobile Developer & Project Manager</b> · Medical
+      <br clear="left" /><br />
+      <p>An AI assistant for doctors, nurses and medical coders that simplifies clinical workflows, medical coding and documentation, with AI chat and medical file uploads.</p>
+      <ul>
+        <li>Designed the app architecture and planned delivery</li>
+        <li>Built the Flutter app with AI chat and document upload flows</li>
+        <li>Led coordination between design, web and mobile</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/AI%20chat-6E40C9?style=flat-square" alt="AI chat" />
+      <img src="https://img.shields.io/badge/Architecture-2C5364?style=flat-square" alt="Architecture" />
+      <br /><br />
+      <a href="https://apps.apple.com/us/app/caia-coders-medical-ai/id6745459933"><img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="assets/apps/caia-shot1.jpg" height="300" alt="CAIA screenshot" />
+      <img src="assets/apps/caia-shot2.jpg" height="300" alt="CAIA screenshot" />
+      <img src="assets/apps/caia-shot3.jpg" height="300" alt="CAIA screenshot" />
+    </td>
+  </tr>
+</table>
 
-### SALAMA
-**Project Manager** · Architecture & delivery
+<!-- MRCS -->
+<table>
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <img src="assets/apps/mrcs-shot1.jpg" height="300" alt="MRCS Diamonds screenshot" />
+      <img src="assets/apps/mrcs-shot2.jpg" height="300" alt="MRCS Diamonds screenshot" />
+      <img src="assets/apps/mrcs-shot3.jpg" height="300" alt="MRCS Diamonds screenshot" />
+    </td>
+    <td width="52%" valign="top">
+      <img src="assets/apps/mrcs-icon.png" width="64" height="64" align="left" alt="MRCS Diamonds icon" />
+      <h3>&nbsp;MRCS Diamonds</h3>
+      &nbsp;<b>Mobile Developer</b> · Education
+      <br clear="left" /><br />
+      <p>A courses and books platform for surgeons preparing for the MRCS exam, with an in-app book reader.</p>
+      <ul>
+        <li>Built the full Flutter app with Firebase as the backend</li>
+        <li>Delivered course content, book previews and the reading experience</li>
+        <li>Worked with a UI/UX designer from Figma to release</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <br /><br />
+      <a href="https://apps.apple.com/eg/app/mrcs-diamonds/id6596769065"><img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+    </td>
+  </tr>
+</table>
 
-Diagnosis and analytics platform for medical professionals. I planned the technical details and coordinated the UI/UX and web teams.
-
-<a href="https://salama.ai/"><img src="https://img.shields.io/badge/Website-salama.ai-2C5364?style=flat-square&logo=googlechrome&logoColor=white" alt="salama.ai" /></a>
-
-</td>
-    <td width="50%" valign="top">
-
-### Zamen
-**Mobile Developer** · Flutter
-
-Law management app for Saudi Arabian companies, built with the UI/UX design team and an Express backend team.
-
-</td>
+<!-- SALAMA + Zamen -->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/apps/salama-cover.jpg" width="100%" alt="SALAMA web platform" />
+      <h3>SALAMA · Medical AI Platform</h3>
+      <b>Project Manager</b> · Web
+      <p align="left">A diagnosis and analytics platform for medical professionals. I planned the technical architecture and coordinated the UI/UX and web teams through delivery.</p>
+      <img src="https://img.shields.io/badge/Architecture-2C5364?style=flat-square" alt="Architecture" />
+      <img src="https://img.shields.io/badge/Project%20management-203A43?style=flat-square" alt="Project management" />
+      <br /><br />
+      <a href="https://salama.ai/"><img src="https://img.shields.io/badge/Visit-salama.ai-8CC63F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit salama.ai" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/apps/zamen-cover.jpg" width="100%" alt="Zamen app" />
+      <h3>Zamen · Legal Management</h3>
+      <b>Mobile Developer</b> · Legal tech
+      <p align="left">A law management app for companies in Saudi Arabia, built in Flutter with the UI/UX design team and an Express backend team.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Express%20API-000000?style=flat-square&logo=express&logoColor=white" alt="Express API" />
+      <img src="https://img.shields.io/badge/RTL%20%2F%20Arabic-45A780?style=flat-square" alt="RTL and Arabic" />
+    </td>
   </tr>
 </table>
 
