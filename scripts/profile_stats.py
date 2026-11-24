@@ -44,7 +44,6 @@ query($login: String!) {
   user(login: $login) {
     createdAt
     followers { totalCount }
-    pullRequests { totalCount }
     contributionsCollection { contributionYears }
     repositories(ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC, first: 100) {
       totalCount
@@ -122,11 +121,11 @@ def collect(login):
         "last_year": last_year,
         "current": current,
         "longest": longest,
-        "prs": user["pullRequests"]["totalCount"],
         "repos": user["repositories"]["totalCount"],
         "stars": sum(r["stargazerCount"] for r in user["repositories"]["nodes"]),
         "followers": user["followers"]["totalCount"],
         "since": user["createdAt"][:4],
+        "years": len(user["contributionsCollection"]["contributionYears"]),
         "langs": sorted(langs.items(), key=lambda kv: kv[1][0], reverse=True),
     }
 
@@ -160,12 +159,12 @@ def fmt(n):
 def stats_svg(s):
     w, h = 495, 195
     cells = [
-        ("Total contributions", fmt(s["total"]), f"since {s['since']}"),
+        ("Total contributions", fmt(s["total"]), "all time"),
         ("Last 12 months", fmt(s["last_year"]), "contributions"),
         ("Current streak", fmt(s["current"]), "days"),
         ("Longest streak", fmt(s["longest"]), "days"),
-        ("Public repos", fmt(s["repos"]), f"{fmt(s['stars'])} stars"),
-        ("Followers", fmt(s["followers"]), f"{fmt(s['prs'])} pull requests"),
+        ("Public repos", fmt(s["repos"]), f"{fmt(s['stars'])} stars · {fmt(s['followers'])} followers"),
+        ("Years active", fmt(s["years"]), f"since {s['since']}"),
     ]
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="GitHub stats">',
