@@ -222,30 +222,26 @@ I'm a **Senior Mobile App Developer** with 5+ years of experience building scala
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [FakeStore-Android](https://github.com/omarmeciry21/FakeStore-Android) | Kotlin | Android shopping app built on the Fake Store API |
-| [android_news_app](https://github.com/omarmeciry21/android_news_app) | Kotlin | Android news reader app |
-| [e_commerce_test](https://github.com/omarmeciry21/e_commerce_test) | Flutter | Cross-platform e-commerce app with a demo video |
-| [SpringBoot-Books-Demo-App](https://github.com/omarmeciry21/SpringBoot-Books-Demo-App) | Java, Spring Boot | Books REST API demo |
+| [FakeStore-Android](https://github.com/omarmeciry21/FakeStore-Android) | Kotlin · MVVM · Retrofit · Room | E-commerce app with categories, search, favourites and cart |
+| [android_news_app](https://github.com/omarmeciry21/android_news_app) | Kotlin · MVVM · Retrofit · Room | News app with breaking news, search and saved articles |
+| [e_commerce_test](https://github.com/omarmeciry21/e_commerce_test) | Flutter · Dart | Cross-platform e-commerce app with a demo video |
+| [SpringBoot-Books-Demo-App](https://github.com/omarmeciry21/SpringBoot-Books-Demo-App) | Java · Spring Boot · JDBC | Books and authors data layer with unit and integration tests |
 
 ## 📊 GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omarmeciry21&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=omarmeciry21&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmeciry21&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmeciry21&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top languages" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/omarmeciry21/omarmeciry21/output/stats.svg" height="195" alt="GitHub activity: contributions, streaks, repos and followers" />
+  <img src="https://raw.githubusercontent.com/omarmeciry21/omarmeciry21/output/languages.svg" height="195" alt="Top languages" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omarmeciry21&theme=github-dark-blue&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=omarmeciry21&theme=default&hide_border=true" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarmeciry21/omarmeciry21/output/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/omarmeciry21/omarmeciry21/output/github-snake.svg" alt="Contribution graph animated as a snake" />
   </picture>
 </p>
+
+<p align="center"><sub>Cards and snake are generated daily by a GitHub Action in this repo.</sub></p>
 
 ## 🤝 Let's work together
 
