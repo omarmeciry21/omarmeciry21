@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub stats">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .title { font: 600 16px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #203A43; }
+  .label { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #57606a; }
+  .value { font: 700 22px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .accent { fill: #2C9F6B; }
+  .track { fill: #eaeef2; }
+  .sep { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #7ee2b8; }
+    .label { fill: #8b949e; }
+    .value { fill: #e6edf3; }
+    .accent { fill: #3DDC84; }
+    .track { fill: #21262d; }
+    .sep { stroke: #30363d; }
+  }
+</style>
+
+<rect class="bg" x="0.5" y="0.5" rx="10" width="494" height="194"/>
+<text class="title" x="22" y="34">GitHub activity</text>
+<line class="sep" x1="22" y1="46" x2="473" y2="46"/>
+<text class="value" x="22" y="82">6,552</text>
+<text class="label" x="22" y="100">Total contributions</text>
+<text class="label accent" x="22" y="115">all time</text>
+<text class="value" x="172" y="82">3,589</text>
+<text class="label" x="172" y="100">Last 12 months</text>
+<text class="label accent" x="172" y="115">contributions</text>
+<text class="value" x="323" y="82">0</text>
+<text class="label" x="323" y="100">Current streak</text>
+<text class="label accent" x="323" y="115">days</text>
+<text class="value" x="22" y="146">44</text>
+<text class="label" x="22" y="164">Longest streak</text>
+<text class="label accent" x="22" y="179">days</text>
+<text class="value" x="172" y="146">39</text>
+<text class="label" x="172" y="164">Public repos</text>
+<text class="label accent" x="172" y="179">23 stars · 39 followers</text>
+<text class="value" x="323" y="146">7</text>
+<text class="label" x="323" y="164">Years active</text>
+<text class="label accent" x="323" y="179">since 2020</text>
+</svg>
